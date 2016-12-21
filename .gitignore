@@ -2,6 +2,20 @@
 .Rhistory
 .Rapp.history
 
+
+# sound files
+*.wav
+*.mov
+*.mp4
+
+# images, except pdf
+*.jpg
+*.png
+*.pgm
+*.ppm
+
+
+
 # Session Data files
 .RData
 
